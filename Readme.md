@@ -10,12 +10,14 @@
 
 ## 💻 About Me
 
-- 🎓 Final Year B.Tech Student | Web Developer  
-- 🌐 Full Stack Developer | MERN Stack Lover  
-- 🚀 Developed **Jan Saarthi Web Portal** – AI-powered multilingual platform connecting Indians with Govt & private schemes  
-- 🤖 Passionate about AI, Blockchain & futuristic tech  
-- 🏆 Hackathon Winner & Team Leader of **CodeVision**  
-- 💡 Always learning, always coding!
+### 🚀 **CertiChain**  
+A blockchain-powered platform for issuing and verifying NFT certificates for courses, hackathons, and internships. It leverages Web3, Ethereum (Sepolia testnet), and smart contracts to bring transparency and trust in digital credentials. Users can earn, view, and showcase blockchain-verified certificates securely.
+
+### 📚 **Bookmart**  
+An online marketplace for buying and selling old books easily. It focuses on connecting buyers and sellers for affordable, second-hand educational resources with an intuitive UI and smooth experience.
+
+### 🌐 **Jan Saarthi Web Portal**  
+Developed the AI-powered multilingual web portal for Jan Saarthi, a platform that helps Indian citizens discover and apply for government and private welfare schemes. It features AI-assisted scheme suggestions, multi-language support, and real-time scheme management for verified organizations.
 
 ---
 
