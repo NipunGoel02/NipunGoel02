@@ -2,22 +2,30 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Blockchain+Enthusiast;AI+Explorer;Hackathon+Winner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Blockchain+Enthusiast;AI+Explorer;Hackathon+Finalist)
 
 </div>
 
 ---
+# About Me
 
-## 💻 About Me
+Hi, I'm Nipun Goel, a passionate Full Stack Developer from India.  
+I love building scalable web applications, exploring blockchain technologies, and participating in hackathons.  
+Currently, I'm deepening my knowledge in Web3, Ethereum, and AI-driven solutions.
 
-### 🚀 **CertiChain**  
-A blockchain-powered platform for issuing and verifying NFT certificates for courses, hackathons, and internships. It leverages Web3, Ethereum (Sepolia testnet), and smart contracts to bring transparency and trust in digital credentials. Users can earn, view, and showcase blockchain-verified certificates securely.
 
-### 📚 **Bookmart**  
-An online marketplace for buying and selling old books easily. It focuses on connecting buyers and sellers for affordable, second-hand educational resources with an intuitive UI and smooth experience.
+---
 
-### 🌐 **Jan Saarthi Web Portal**  
-Developed the AI-powered multilingual web portal for Jan Saarthi, a platform that helps Indian citizens discover and apply for government and private welfare schemes. It features AI-assisted scheme suggestions, multi-language support, and real-time scheme management for verified organizations.
+## 🚀 Projects
+
+### CertiChain  
+A blockchain-powered platform for issuing and verifying NFT certificates for courses, hackathons, and internships. Built on Web3, Ethereum (Sepolia testnet), and smart contracts to provide trust and transparency for digital credentials.
+
+### Bookmart  
+An online marketplace for buying and selling old books easily. Connects buyers and sellers of second-hand educational resources with a smooth, user-friendly interface.
+
+### Jan Saarthi Web Portal  
+Developed the AI-powered multilingual web portal for Jan Saarthi, helping Indian citizens discover and apply for government and private welfare schemes. Features AI-assisted scheme suggestions, multi-language support, and real-time scheme management.
 
 ---
 
